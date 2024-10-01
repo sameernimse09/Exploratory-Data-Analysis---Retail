@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis--Retail [TASK 3]
+# Exploratory_Data_Analysis--Retail_Store
 Data Science and Business Analytics Intern @ The Sparks Foundation.
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’  
